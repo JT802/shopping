@@ -1,6 +1,2 @@
 eggs
-milk
-saurkraut
-lemons
-ice cream (Cherry Garcia)
-bread
+ketchup
